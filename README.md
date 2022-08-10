@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">Biginner and passionate about analytics and Data Sciencee</h3>
+<h3 align="center">Biginner and passionate about Analytics and Data Science</h3>
 
 - 🌱 I’m currently learning **Data analytics and Data Science**
 
